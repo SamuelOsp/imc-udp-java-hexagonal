@@ -8,7 +8,7 @@
     <artifactId>imc-udp-client</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-    <name>Cliente UDP de Temperatura (Arquitectura Hexagonal)</name>
+    <name>Cliente UDP de IMC (Arquitectura Hexagonal)</name>
 
     <properties>
         <maven.compiler.release>17</maven.compiler.release>
